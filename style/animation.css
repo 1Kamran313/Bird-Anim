@@ -1,0 +1,149 @@
+@keyframes rotataHair {
+    0% {
+        transform: rotate(-360deg);
+    }
+
+    15% {
+        transform: rotate(-360deg);
+    }
+
+    35% {
+        transform: rotate(-180deg);
+    }
+
+
+    65% {
+        transform: rotate(-180deg);
+    }
+
+    85% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+
+}
+
+
+@keyframes rotateWhite {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    15% {
+        transform: rotate(0deg);
+    }
+
+    35% {
+        transform: rotate(-180deg);
+    }
+
+    65% {
+        transform: rotate(-180deg);
+    }
+
+    85% {
+        transform: rotate(-360deg);
+    }
+
+    100% {
+        transform: rotate(-360deg);
+    }
+}
+
+
+
+
+
+@keyframes rotateShadow {
+    15% {
+        transform: rotate(0deg);
+    }
+
+    35% {
+        transform: rotate(90deg);
+    }
+
+    65% {
+        transform: rotate(90deg);
+    }
+
+    85% {
+        transform: rotate(0deg);
+    }
+}
+
+
+
+
+@keyframes rotbigBeak {
+    15% {
+        transform: rotate(0deg);
+    }
+
+    35% {
+        transform: rotate(90deg);
+    }
+
+    65% {
+        transform: rotate(90deg);
+    }
+
+    85% {
+        transform: rotate(0deg);
+    }
+}
+
+
+
+
+@keyframes rotsmallBeak {
+    15% {
+        transform: rotate(0deg);
+    }
+
+    35% {
+        transform: rotate(-90deg);
+    }
+
+    65% {
+        transform: rotate(-90deg);
+    }
+
+    85% {
+        transform: rotate(0deg);
+    }
+}
+
+
+
+@keyframes moveEye {
+    15% {
+       left: 51%;
+        transform: translate(0px);
+    }
+
+    35% {
+        left: 49%;
+        transform: translate(-100%);
+    }
+
+    65% {
+       left: 49%;
+        transform: translate(-100%);
+    }
+
+
+    85% {
+        left: 51%;
+        transform: translate(0px);
+    }
+
+
+
+
+
+
+}
